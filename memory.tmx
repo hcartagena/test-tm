@@ -1,1 +1,8 @@
-just a dummy tmx file
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="unkown" segtype="sentence" adminlang="EN" srclang="EN" o-tmf="Olifant" creationdate="20140804T170155Z" creationid="hcartagena" changedate="20140804T170435Z" changeid="hcartagena">
+</header>
+<body>
+<!--just a dummy tmx file -->
+</body>
+</tmx>
